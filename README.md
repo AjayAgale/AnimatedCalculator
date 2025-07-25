@@ -1,5 +1,5 @@
 # AnimatedCalculator
-A visually appealing and fully functional calculator application built using **Java Swing**. This project features animated gradient backgrounds, real-time expression evaluation, continuous calculations, and a history panel for tracking previous results.
+A stylish, animated, and fully functional calculator built using Java Swing, featuring a dynamic gradient background, real-time expression evaluation, and a history panel for previous calculations. Designed for both usability and aesthetics.
 
 
 # 🎨 Animated Calculator - Java Swing
